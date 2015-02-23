@@ -119,6 +119,8 @@ locales:
       - text: Über Ruby
         url:  /de/about
     en:
+      - text: Releases
+        url:  /en/releases
       - text: Downloads
         url:  /en/downloads
       - text: Documentation
